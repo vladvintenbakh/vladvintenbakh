@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi GitHub 👋
+
+I am a passionate data analyst with over 5 years of experience transforming complex datasets into actionable business insights 📊
+
+I specialise in Python for data cleaning, wrangling, and visualisation - leveraging tools like Pandas, NumPy, and Matplotlib 💻
+
+I also learn programming languages as a hobby. So far, I have explored Swift, C, Java, JavaScript, and OCaml 📚
+
+When I am not at my laptop, you will likely find me playing football ⚽️ or FIFA 🎮
 
 <!--
 **vladvintenbakh/vladvintenbakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
