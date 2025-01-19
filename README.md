@@ -4,21 +4,21 @@ Being a Data Analyst is both my job and my passion 😌
 
 Here are a few of the projects I've been playing around with:
 * 🐍 Python:
-  * 📚 [Skillbox Course Analytics](https://github.com/vladvintenbakh/SkillboxAnalytics)
-  * 💰 [Kiva Loans Analysis](https://github.com/vladvintenbakh/KivaAnalytics)
+  * [Skillbox Course Analytics](https://github.com/vladvintenbakh/SkillboxAnalytics)
+  * [Kiva Loans Analysis](https://github.com/vladvintenbakh/KivaAnalytics)
 * 🔬 R:
-  * 🛜 [Megafon Statistical Analysis](https://github.com/vladvintenbakh/MegafonStatisticalAnalysis)
+  * [Megafon Statistical Analysis](https://github.com/vladvintenbakh/MegafonStatisticalAnalysis)
 * 🤖 ML/DL:
-  * 🎨 [Artistic Style Transfer](https://github.com/vladvintenbakh/VGGStyleTransfer)
-  * 📊 [Churn Prediction Analysis](https://github.com/vladvintenbakh/TelecomMLAnalysis)
-  * 🔍 [Multiple Object Detection](https://github.com/vladvintenbakh/MultipleObjectDetection)
-  * 👩🏻 [Transfer Learning for Face Classification](https://github.com/vladvintenbakh/MulticlassTransferLearning)
-  * 🐻 [COCO Semantic Segmentation](https://github.com/vladvintenbakh/COCOSemanticSegmentation/blob/main/COCO_Semantic_Segmentation.ipynb)
+  * [Artistic Style Transfer](https://github.com/vladvintenbakh/VGGStyleTransfer)
+  * [Churn Prediction Analysis](https://github.com/vladvintenbakh/TelecomMLAnalysis)
+  * [Multiple Object Detection](https://github.com/vladvintenbakh/MultipleObjectDetection)
+  * [Transfer Learning for Face Classification](https://github.com/vladvintenbakh/MulticlassTransferLearning)
+  * [COCO Semantic Segmentation](https://github.com/vladvintenbakh/COCOSemanticSegmentation/blob/main/COCO_Semantic_Segmentation.ipynb)
 * 📱 Swift:
-  * 💸 [NFT Marketplace App](https://github.com/vladvintenbakh/NFTMarketplaceApp)
-  * ✅ [Tracker App](https://github.com/vladvintenbakh/TrackerApp)
-  * 🌄 [Image Feed App](https://github.com/vladvintenbakh/ImageFeedApp)
-  * 🍿 [Movie Quiz App](https://github.com/vladvintenbakh/MovieQuizApp)
+  * [NFT Marketplace App](https://github.com/vladvintenbakh/NFTMarketplaceApp)
+  * [Tracker App](https://github.com/vladvintenbakh/TrackerApp)
+  * [Image Feed App](https://github.com/vladvintenbakh/ImageFeedApp)
+  * [Movie Quiz App](https://github.com/vladvintenbakh/MovieQuizApp)
 
 
 <!--
