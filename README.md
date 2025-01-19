@@ -1,6 +1,6 @@
 ## Hi GitHub 👋
 
-I'm a Data Analyst by day ☀️ and a data/ML/AI enthusiast by night 🌙
+I'm a Data Analyst by day ☀️ and a data/ML/AI/software enthusiast by night 🌙
 
 Here are some projects I've been playing around with outside of work:
 * 🐍 Python:
