@@ -2,7 +2,7 @@
 
 Being a Data Analyst is both my job and my passion 😌
 
-Here are a few of the projects I've been playing around with:
+Here are some projects I've been playing around with outside of work:
 * 🐍 Python:
   * [Skillbox Course Analytics](https://github.com/vladvintenbakh/SkillboxAnalytics)
   * [Kiva Loans Analysis](https://github.com/vladvintenbakh/KivaAnalytics)
