@@ -1,6 +1,6 @@
 ## Hi GitHub 👋
 
-Being a Data Analyst is both my job and my passion 😌
+I'm a Data Analyst by day ☀️ and a data/ML/AI enthusiast by night 🌙
 
 Here are some projects I've been playing around with outside of work:
 * 🐍 Python:
