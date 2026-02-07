@@ -1,37 +1,15 @@
 ## Hi GitHub 👋
 
-I'm a Data Analyst by day ☀️ and a data/ML/AI/software enthusiast by night 🌙
+I mostly use this space as my Data Engineering playground.
 
-Here are some projects I've been playing around with outside of work:
-* 🐍 Python:
-  * [Skillbox Course Analytics](https://github.com/vladvintenbakh/SkillboxAnalytics)
-  * [Kiva Loans Analysis](https://github.com/vladvintenbakh/KivaAnalytics)
-* 🔬 R:
-  * [Megafon Statistical Analysis](https://github.com/vladvintenbakh/MegafonStatisticalAnalysis)
-* 🤖 ML/DL:
-  * [Artistic Style Transfer](https://github.com/vladvintenbakh/VGGStyleTransfer)
-  * [Churn Prediction Analysis](https://github.com/vladvintenbakh/TelecomMLAnalysis)
-  * [Multiple Object Detection](https://github.com/vladvintenbakh/MultipleObjectDetection)
-  * [Transfer Learning for Face Classification](https://github.com/vladvintenbakh/MulticlassTransferLearning)
-  * [COCO Semantic Segmentation](https://github.com/vladvintenbakh/COCOSemanticSegmentation/blob/main/COCO_Semantic_Segmentation.ipynb)
-* 📱 Swift:
-  * [NFT Marketplace App](https://github.com/vladvintenbakh/NFTMarketplaceApp)
-  * [Tracker App](https://github.com/vladvintenbakh/TrackerApp)
-  * [Image Feed App](https://github.com/vladvintenbakh/ImageFeedApp)
-  * [Movie Quiz App](https://github.com/vladvintenbakh/MovieQuizApp)
+Here are some projects I have been working on to sharpen my DE skills:
+- 🔄 ETL
+  - [Sales Mart Pipeline](https://github.com/vladvintenbakh/SalesMartPipeline) (Airflow, PostgreSQL, star schema)
+- 💧 Data Lake
+  - [Social Network Geo-Analytics & Data Lake](https://github.com/vladvintenbakh/SocialNetworkDataLake) (PySpark, HDFS, Airflow)
+- ⚡️ Streaming
+  - [Restaurant Promotion Streaming Service](https://github.com/vladvintenbakh/RestaurantPromotionStreamingService) (PySpark, Kafka, PostgreSQL)
+- ☁️ Cloud
+  - [Restaurant Order Processing Pipeline](https://github.com/vladvintenbakh/CloudVaultPipeline) (Yandex Cloud, Kafka, Redis, PostgreSQL, Docker, Kubernetes)
 
-
-<!--
-**vladvintenbakh/vladvintenbakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Bonus: As a hobby, I collaborated with a couple of friends on [NFT Marketplace App](https://github.com/vladvintenbakh/NFTMarketplaceApp) for iOS.
