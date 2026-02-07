@@ -12,4 +12,4 @@ Here are some projects I have been working on to sharpen my DE skills:
 - ☁️ Cloud
   - [Restaurant Order Processing Pipeline](https://github.com/vladvintenbakh/CloudVaultPipeline) (Yandex Cloud, Kafka, Redis, PostgreSQL, Docker, Kubernetes)
 
-📱 Bonus: As a hobby, I collaborated with a couple of friends on [NFT Marketplace App](https://github.com/vladvintenbakh/NFTMarketplaceApp) for iOS.
+📱 Bonus: As a hobby, I collaborated with a couple of friends on [NFT Marketplace](https://github.com/vladvintenbakh/NFTMarketplaceApp), an app for iOS.
